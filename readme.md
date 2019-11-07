@@ -1,6 +1,7 @@
 # Cheatsheet about hacking
 Cheetsheet for CTF and Penetration testing.
 
+# Web
 ## SQL injection
 ### Tech
 - SQL tech  
@@ -32,7 +33,13 @@ Cheetsheet for CTF and Penetration testing.
 	https://gbhackers.com/top-500-important-xss-cheat-sheet/  
 	https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
 
-# RsaCtfTool
+## CSP Bypass
+응답 헤더에서 csp를 확인할 수 있다. 걸려있으면 우회하는 문제일 확률이 높다.
+- Tech  
+	hahwul.com/2019/01/csp-bypass-technique-xss.html
+
+# Tools
+## RsaCtfTool
 rsa 취약점 찾는 툴
 - github  
 	https://github.com/Ganapati/RsaCtfTool
