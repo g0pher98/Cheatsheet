@@ -26,8 +26,11 @@ Cheetsheet for CTF and Penetration testing.
 
 
 ## XSS
-https://gbhackers.com/top-500-important-xss-cheat-sheet/  
-https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
+- Tech
+	https://www.hahwul.com/2016/06/web-hacking-anti-xss-filter-evasion-of.html
+- Payloads  
+	https://gbhackers.com/top-500-important-xss-cheat-sheet/  
+	https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
 
 
 
