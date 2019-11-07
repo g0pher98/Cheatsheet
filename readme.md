@@ -33,6 +33,16 @@ Cheetsheet for CTF and Penetration testing.
 	https://gbhackers.com/top-500-important-xss-cheat-sheet/  
 	https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
 
+## SSTI
+인풋값에 `{{3*3}}`(python) 이나 `${{3*3}}`(Java) 등과 같은 형식의 인젝션이 먹힐 때
+- 플랫폼 별 SSTI Tech
+	https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection
+- Python SSTI Tech (Flask, Django ...)
+	https://www.lanmaster53.com/2016/03/11/exploring-ssti-flask-jinja2-part-2/
+- Java SSTI Tech (Spring ...)
+	https://hawkinsecurity.com/2017/12/13/rce-via-spring-engine-ssti/
+	
+
 ## CSP Bypass
 응답 헤더에서 csp를 확인할 수 있다. 걸려있으면 우회하는 문제일 확률이 높다.
 - Tech  
