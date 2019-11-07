@@ -32,6 +32,9 @@ Cheetsheet for CTF and Penetration testing.
 	https://gbhackers.com/top-500-important-xss-cheat-sheet/  
 	https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
 
-
+# RsaCtfTool
+rsa 취약점 찾는 툴
+- github  
+	https://github.com/Ganapati/RsaCtfTool
 
 
