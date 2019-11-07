@@ -45,6 +45,7 @@ or가 필터링 되는 경우가 있는데, oorr로 우회할 수 없다면 info
 	https://hawkinsecurity.com/2017/12/13/rce-via-spring-engine-ssti/
 
 ## LFI & RFI
+요즘 url을 통해 장난칠 수 있는 문제가 많이 나오는데, 샵(#)이나 물음표(?)를 통해 마치 sqli의 주석처럼 사용할 수 있다. 예를들면 "http://ctf.com/injection/../../../../../../../etc/passwd#/anythingsalt"가 될 수 있다.
 - Tech  
 	https://securitycode.tistory.com/49
 
