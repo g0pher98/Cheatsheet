@@ -36,7 +36,7 @@ Cheetsheet for CTF and Penetration testing.
 ## CSP Bypass
 응답 헤더에서 csp를 확인할 수 있다. 걸려있으면 우회하는 문제일 확률이 높다.
 - Tech  
-	hahwul.com/2019/01/csp-bypass-technique-xss.html
+	https://hahwul.com/2019/01/csp-bypass-technique-xss.html
 
 # Tools
 ## RsaCtfTool
