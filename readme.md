@@ -46,6 +46,11 @@ Cheetsheet for CTF and Penetration testing.
 - Tech  
 	https://securitycode.tistory.com/49
 
+## XXE
+XML을 주입할 수 있을 때 가능한 공격으로, LFI & RFI로 공격이 이어질 수 있다.
+- Tech  
+	https://www.hahwul.com/p/xxe-cheat-sheet.html
+
 ## CSP Bypass
 응답 헤더에서 csp를 확인할 수 있다. 걸려있으면 우회하는 문제일 확률이 높다.
 - Tech  
