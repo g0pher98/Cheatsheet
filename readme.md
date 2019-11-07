@@ -26,7 +26,7 @@ Cheetsheet for CTF and Penetration testing.
 
 
 ## XSS
-- Tech
+- Tech  
 	https://www.hahwul.com/2016/06/web-hacking-anti-xss-filter-evasion-of.html
 - Payloads  
 	https://gbhackers.com/top-500-important-xss-cheat-sheet/  
