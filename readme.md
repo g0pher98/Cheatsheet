@@ -3,7 +3,7 @@ Cheetsheet for CTF and Penetration testing.
 
 # Web
 ## SQL injection
-or가 필터링 되는 경우가 있는데, oorr로 우회할 수 없다면 information schema를 사용하지 않는 문제다. information에 or가 포함되어있기 때문. 이 경우에는 테이블 내부에 플래그가 있을 확률이 높은데, or를 안쓰고 공격 쿼리를 완성해야한다. 예를들어 `1'*1 limit 0,1#`로 0부터 탐색하거나 like 문의 경우 `' limit 0,1#`로 탐색할 수 있다. 만약 컬럼명을 알고있거나, 추측할 수 있다면 `1'*1 and id='abc`와 같은 형태로 blind sqli로 접근해볼 수 있다. 간단하게 먹히는 문제는 sqlmap으로 충분히 풀이가 가능하다.
+or가 필터링 되는 경우가 있는데, oorr로 우회할 수 없다면 information schema를 사용하지 않는 문제다. information에 or가 포함되어있기 때문. 이 경우에는 테이블 내부에 플래그가 있을 확률이 높은데, or를 안쓰고 공격 쿼리를 완성해야한다. 예를들어 `1'*1 limit 0,1#`로 0부터 탐색하거나 like 문의 경우 `' limit 0,1#`로 탐색할 수 있다. 만약 컬럼명을 알고있거나, 추측할 수 있다면 `1'*1 and id='abc`와 같은 형태로 blind sqli로 접근해볼 수 있다.
 ### Tech
 - SQL tech  
 	https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/  
