@@ -181,12 +181,12 @@ rsa 취약점 찾는 툴
 | 88 | 58 | 130 | 1011000 | X | uppercase X |
 | 89 | 59 | 131 | 1011001 | Y | uppercase Y |
 | 90 | 5A | 132 | 1011010 | Z | uppercase Z |
-| 91 | 5B | 133 | 1011011 | [ | left square bracket |
+| 91 | 5B | 133 | 1011011 | \[ | left square bracket |
 | 92 | 5C | 134 | 1011100 | \ | backslash |
 | 93 | 5D | 135 | 1011101 | ] | right square bracket |
 | 94 | 5E | 136 | 1011110 | ^ | caret |
 | 95 | 5F | 137 | 1011111 | _ | underscore |
-| 96 | 60 | 140 | 1100000 | ` | backtick |
+| 96 | 60 | 140 | 1100000 | \` | backtick |
 | 97 | 61 | 141 | 1100001 | a | lowercase a |
 | 98 | 62 | 142 | 1100010 | b | lowercase b |
 | 99 | 63 | 143 | 1100011 | c | lowercase c |
