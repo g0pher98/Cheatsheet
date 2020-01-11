@@ -3,16 +3,16 @@ Cheetsheet for CTF and Penetration testing.
 
 # INDEX
 - [Table](#table)
-	- [Ascii Code](#ascii_code)
-	- [32bit System Call](#32bit_system_call)
-	- [64bit System Call](#64bit_system_call)
+	- [Ascii Code](#ascii-code)
+	- [32bit System Call](#32bit-system-call)
+	- [64bit System Call](#64bit-system-call)
 - [Web](#web)
-	- [SQL injection](#sql_injection)
+	- [SQL injection](#sql-injection)
 	- [XSS](#xss)
 	- [SSTI](#ssti)
-	- [LFI & RFI](#lfi_rfi)
+	- [LFI & RFI](#lfi-rfi)
 	- [XXE](#xxe)
-	- [CSP Bypass](#csp_bypass)
+	- [CSP Bypass](#csp-bypass)
 - [Tools](#tools)
 	- [RsaCtfTool](#rsactftool)
 	
