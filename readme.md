@@ -17,13 +17,6 @@ Cheetsheet for CTF and Penetration testing.
 	- [RsaCtfTool](#rsactftool)
 	
 
-|name|eax|ebx|ecx|edx|esi|edrthtti|
-|:---|:---|:---|:---|:---|:---|:---|
-|sys_read|0|fd|buf|count|
-|sys_write|1|fd|buf|count|
-|sys_open|2|filename|flags|mode|
-|sys_close|3|fd|
-|sys_execve|59|filename|argv|envp|
 
 # Web
 ## SQL injection
@@ -92,6 +85,7 @@ rsa 취약점 찾는 툴
 
 # Table
 ## ascii code
+
 | Dec |	Hex | Octal | Binary | Char | Description |
 |---|---|---|---|---|---|
 | 0 | 00 | 000 | 0000000 | NUL | null character |
@@ -225,6 +219,7 @@ rsa 취약점 찾는 툴
 
 https://www.asciitable.xyz/
 ## 32bit system call
+
 |name|eax|ebx|ecx|edx|esi|edi|
 |:---|:---|:---|:---|:---|:---|:---|
 |sys_exit|0x01|error_code|
@@ -237,6 +232,7 @@ https://www.asciitable.xyz/
 
 http://syscalls.kernelgrok.com/
 ## 64bit system call
+
 |name|eax|ebx|ecx|edx|esi|edi|
 |:---|:---|:---|:---|:---|:---|:---|
 |sys_read|0|fd|buf|count|
