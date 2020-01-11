@@ -17,9 +17,13 @@ Cheetsheet for CTF and Penetration testing.
 	- [RsaCtfTool](#rsactftool)
 	
 
-| Dec |	Hex | Octal | Binary | Char | Description |
-|---|---|---|---|---|---|
-| 0 | 00 | 000 | 0000000 | NUL | null character |
+|name|eax|ebx|ecx|edx|esi|edi|
+|---|---|---|---|---|---|---|
+|sys_read|0|fd|buf|count|
+|sys_write|1|fd|buf|count|
+|sys_open|2|filename|flags|mode|
+|sys_close|3|fd|
+|sys_execve|59|filename|argv|envp|
 
 # Web
 ## SQL injection
