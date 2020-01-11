@@ -2,10 +2,6 @@
 Cheetsheet for CTF and Penetration testing.
 
 # INDEX
-- [Table](#table)
-	- [Ascii Code](#ascii-code)
-	- [32bit System Call](#32bit-system-call)
-	- [64bit System Call](#64bit-system-call)
 - [Web](#web)
 	- [SQL injection](#sql-injection)
 	- [XSS](#xss)
@@ -15,7 +11,10 @@ Cheetsheet for CTF and Penetration testing.
 	- [CSP Bypass](#csp-bypass)
 - [Tools](#tools)
 	- [RsaCtfTool](#rsactftool)
-	
+- [Table](#table)
+	- [Ascii Code](#ascii-code)
+	- [32bit System Call](#32bit-system-call)
+	- [64bit System Call](#64bit-system-call)
 
 
 # Web
