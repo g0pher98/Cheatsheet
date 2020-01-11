@@ -212,7 +212,7 @@ rsa 취약점 찾는 툴
 | 121 | 79 | 171 | 1111001 | y | lowercase y |
 | 122 | 7A | 172 | 1111010 | z | lowercase z |
 | 123 | 7B | 173 | 1111011 | { | left curly brace |
-| 124 | 7C | 174 | 1111100 | | | vertical bar |
+| 124 | 7C | 174 | 1111100 | \| | vertical bar |
 | 125 | 7D | 175 | 1111101 | } | right curly brace |
 | 126 | 7E | 176 | 1111110 | ~ | tilde |
 | 127 | 7F | 177 | 1111111 | DEL | delete (rubout) |
