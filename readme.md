@@ -17,8 +17,8 @@ Cheetsheet for CTF and Penetration testing.
 	- [RsaCtfTool](#rsactftool)
 	
 
-|name|eax|ebx|ecx|edx|esi|edi|
-|---|---|---|---|---|---|---|
+|name|eax|ebx|ecx|edx|esi|edrthtti|
+|:---|:---|:---|:---|:---|:---|:---|
 |sys_read|0|fd|buf|count|
 |sys_write|1|fd|buf|count|
 |sys_open|2|filename|flags|mode|
