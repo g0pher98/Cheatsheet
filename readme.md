@@ -226,7 +226,7 @@ https://www.asciitable.xyz/
 http://syscalls.kernelgrok.com/
 ## 64bit system call
 
-|name|eax|ebx|ecx|edx|esi|edi|
+|name|rdi|rsi|rdx|rcx|r8|r9|
 |:---|:---|:---|:---|:---|:---|:---|
 |sys_read|0|fd|buf|count|
 |sys_write|1|fd|buf|count|
